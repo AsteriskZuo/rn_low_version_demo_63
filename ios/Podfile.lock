@@ -186,7 +186,7 @@ PODS:
     - React-cxxreact (= 0.63.5)
     - React-jsi (= 0.63.5)
   - React-jsinspector (0.63.5)
-  - react-native-chat-sdk (1.1.2):
+  - react-native-chat-sdk (1.1.3):
     - HyphenateChat (= 4.0.2)
     - React-Core
   - React-RCTActionSheet (0.63.5):
@@ -361,7 +361,7 @@ SPEC CHECKSUMS:
   React-jsi: 7d908b17758178b076a05a254523f1a4227b53d2
   React-jsiexecutor: e06a32e42affb2bd89e4c8369349b5fcf787710c
   React-jsinspector: fdbc08866b34ae8e1b788ea1cbd9f9d1ca2aa3d6
-  react-native-chat-sdk: 2e2ad32fef3e298f51e2654731832d546cf8bb79
+  react-native-chat-sdk: c9c61e39d0ffa63cef5425cb1a5d9563d5450bae
   React-RCTActionSheet: e911b99f0d6fa7711ffc2f62d236b12a32771835
   React-RCTAnimation: ad8b853170a059faf31d6add34f67d22391bbe01
   React-RCTBlob: 134c7270b6672c9c05383b2e0f7f044ba39d7dda
@@ -374,6 +374,6 @@ SPEC CHECKSUMS:
   ReactCommon: b9ff54b6dd22ba4a776eda22d7f83ec27544ca35
   Yoga: 0276e9f20976c8568e107cfc1163a8629051adc0
 
-PODFILE CHECKSUM: cc67e4752970eee3f7f200ee721e9774e3dbec22
+PODFILE CHECKSUM: 92dec05c3e3dca7120a1816fb7dc533e530c63c0
 
 COCOAPODS: 1.11.3

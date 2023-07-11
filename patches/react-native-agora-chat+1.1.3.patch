@@ -1,0 +1,16 @@
+diff --git a/node_modules/react-native-agora-chat/native_src/objc/rn/ExtSdkApiObjcRN.m b/node_modules/react-native-agora-chat/native_src/objc/rn/ExtSdkApiObjcRN.m
+index 8fe75dd..4ee0555 100644
+--- a/node_modules/react-native-agora-chat/native_src/objc/rn/ExtSdkApiObjcRN.m
++++ b/node_modules/react-native-agora-chat/native_src/objc/rn/ExtSdkApiObjcRN.m
+@@ -423,11 +423,6 @@ + (BOOL)requiresMainQueueSetup {
+     return ret;
+ }
+ 
+-- (void)invalidate NS_REQUIRES_SUPER {
+-    [super invalidate];
+-    NSLog(@"%@: invalidate:", TAG);
+-}
+-
+ - (void)addListener:(NSString *)eventName {
+     [super addListener:eventName];
+     NSLog(@"%@: addListener: %@", TAG, eventName);
